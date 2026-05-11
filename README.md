@@ -6,7 +6,6 @@ This project is a Streamlit web app that predicts whether a student is likely to
 
 The app loads a trained machine learning model and uses student data entered in the UI to generate a placement prediction.
 
-## Screenshots
 
 ### Screenshot 1
 
